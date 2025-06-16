@@ -138,7 +138,7 @@ $ python3 manage.py runserver
 
 **7. Login Credentials**
 
-Create Super User (HOD)
+Create Super User 
 
 ```
 $  python manage.py createsuperuser
@@ -162,11 +162,11 @@ Password: student
 
 ## Copyrights
 
-Coded by @ritikBanger, @mohitTaimni, and @ronitKhowal
+Coded by @annakamatchi 
 
-Developed for Poornima Group, Jaipur
+Developed for CADD CAE COMPUTERS
 
-Copyright 2022 @ritikbanger
+Copyright 2025  @annakamatchi
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
